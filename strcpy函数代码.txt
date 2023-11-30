@@ -7,3 +7,6 @@ char * strcpy(char * src){
          dst[l] = '\0';
          return dst;
 }
+/**
+远程edit
+**/
